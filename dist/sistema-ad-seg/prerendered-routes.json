@@ -1,0 +1,23 @@
+{
+  "routes": [
+    "/access-denied",
+    "/alicuotas",
+    "/eventos",
+    "/formulario-control",
+    "/formulario-personal",
+    "/formulario-residentes",
+    "/gestionusuario",
+    "/lector-qr",
+    "/login",
+    "/loginpassword",
+    "/notificaciones",
+    "/registro-alicuotas",
+    "/registro-control",
+    "/registro-evento",
+    "/registro-personal",
+    "/registro-residentes",
+    "/registro-usuario",
+    "/registro-visitantes",
+    "/reset-password"
+  ]
+}
